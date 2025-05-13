@@ -1,0 +1,20 @@
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/thumbnails/002/642/574/small_2x/wafer-seamless-pattern-texture-background-illustration-free-vector.jpg");
+}
+#header{
+    background-image: url("./FinalProjectL1/icecreambanner.png");background-size:cover;padding:20px; 
+}
+#menubar{
+    background-color: pink;
+    padding:15px;
+
+    display:flex;
+    justify-content:space-around;
+    margin:0px 100px;
+    border-radius:10px;
+}
+
+#flavorgallery {
+    display:flex;
+
+}

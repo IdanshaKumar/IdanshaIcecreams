@@ -1,0 +1,37 @@
+body{
+    text-align:center;}
+    #header{
+        background-image: url("./FinalProjectL1/icecreambanner.png");background-size:cover;padding:20px; 
+    }
+    #menubar{
+        background-color: pink;
+        padding:15px;
+    
+        display:flex;
+        justify-content:space-around;
+        margin:0px 100px;
+        border-radius:10px;
+    }
+    #sundaes{
+        background-color:lightblue; border-radius:10px;padding:30px;display:flex;justify-content:space-around;margin:30px;
+    }
+    #sundaeimage{
+        height:300px; width:350px;border-radius:15px;padding:10px;
+    }
+    h2{
+        font-family:Jazz LET, fantasy;color:#705e5d;
+    }
+ 
+    #icecreams4{
+        background-color:#e8e28e; border-radius:10px;padding:30px;display:flex;justify-content:space-around;margin:30px;
+    }
+    #iceimage{
+        height:300px; width:350px;border-radius:15px;padding:10px;}
+
+    #popsicles{
+        background-color:#b3e0b6; border-radius:10px;padding:30px;display:flex;justify-content:space-around;margin:30px;
+    }
+
+    #popsicleimage{ height:300px; width:350px;border-radius:15px;padding:10px;}
+
+    

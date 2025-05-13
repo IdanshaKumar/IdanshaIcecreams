@@ -1,0 +1,22 @@
+body{
+    background-image:url("https://media.istockphoto.com/id/1404987344/vector/swirling-radial-ice-cream-background-vector-illustration-for-swirl-design-summer-vortex.jpg?s=612x612&w=0&k=20&c=1yc0A55sDCJU6x00wVlFzpgX0ivL2jyy4iMg8yCEwLA="); background-repeat:no-repeat;background-size:cover;background-attachment:fixed;background-position:center;
+}
+#header{
+    background-image: url("./FinalProjectL1/icecreambanner.png");background-size:cover;padding:20px; 
+}
+#menubar{
+    background-color: pink;
+    padding:15px;
+
+    display:flex;
+    justify-content:space-around;
+    margin:0px 100px;
+    border-radius:10px;
+}
+
+#storytext{
+    text-align:center;font-size:30px;font-family:"Blippo, fantasy";margin-top:100px;color:#1c62bd;text-shadow:2px 2px 2px #000000;
+}
+#storycontent{
+    margin:30px;
+}
